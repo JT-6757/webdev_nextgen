@@ -1,0 +1,63 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Serve Desk",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "business",
+    "keywords": "",
+    "is_pro": 0,
+    "downloadable": 1,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": "http://nextgentechnologylimited.local/wp-content/uploads/master_addons/templates_kits/kits/14/screenshots/kit-default-kit.jpg",
+    "thumbnail_url": "http://nextgentechnologylimited.local/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.jpg",
+    "preview_url": "https://el.master-addons.com/servedesk",
+    "created_date": "2025-10-27 17:46:40",
+    "last_updated": "2025-10-28 07:48:48",
+    "template_count": 0,
+    "export_date": "2025-10-28 14:24:18",
+    "export_version": "1.0.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Serve Desk - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/servedesk",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.2",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Master Addons for Elementor Premium",
+            "version": "2.0.9.8",
+            "file": "master-addons-pro/master-addons.php",
+            "author": "Jewel Theme"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.32.5",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": []
+}

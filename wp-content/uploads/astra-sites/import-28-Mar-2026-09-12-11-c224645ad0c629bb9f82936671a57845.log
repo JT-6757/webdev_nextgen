@@ -1,0 +1,15 @@
+
+[09:15:36 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:16:54 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:17:06 UTC] [INFO] Checking if plugin directory clearing is needed
+[09:51:33 UTC] [INFO] Checking if plugin directory clearing is needed
+[08:29:52 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[08:31:37 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[08:31:48 UTC] [INFO] Starting Elementor page import for post ID: 53933
+[08:32:20 UTC] [SUCCESS] Elementor page imported successfully for post ID: 53933
+[09:50:46 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[09:50:53 UTC] [INFO] Starting Elementor page import for post ID: 38833
+[09:51:24 UTC] [SUCCESS] Elementor page imported successfully for post ID: 38833
+[15:18:17 UTC] [SUCCESS] {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false} | Context: {"required_plugins":{"active":[],"inactive":[],"notinstalled":[]},"third_party_required_plugins":[],"update_avilable_plugins":[],"incompatible_plugins":[],"error":false}
+[15:18:21 UTC] [INFO] Starting Elementor page import for post ID: 52714
+[15:18:41 UTC] [SUCCESS] Elementor page imported successfully for post ID: 52714

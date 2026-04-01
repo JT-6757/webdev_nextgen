@@ -1,0 +1,194 @@
+{
+    "version": "0.4",
+    "template_id": "3",
+    "title": "Vibe Space - Global Style",
+    "type": "kit",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "system_colors": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "color": "#6EC1E4"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "color": "#54595F"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "color": "#7A7A7A"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "color": "#61CE70"
+            }
+        ],
+        "system_typography": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto",
+                "typography_font_weight": "600"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "400"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto",
+                "typography_font_weight": "400"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto",
+                "typography_font_weight": "500"
+            }
+        ],
+        "template": "default",
+        "post_title": "Default Kit",
+        "post_status": "publish",
+        "colors_enable_styleguide_preview": "",
+        "typography_enable_styleguide_preview": "",
+        "default_generic_fonts": "Sans-serif",
+        "button_background_color": "",
+        "button_background_color_b": "#f2295b",
+        "button_background_video_link": "",
+        "button_background_video_start": "",
+        "button_background_video_end": "",
+        "button_background_play_once": "",
+        "button_background_play_on_mobile": "",
+        "button_background_privacy_mode": "",
+        "button_background_slideshow_gallery": [],
+        "button_background_slideshow_loop": "yes",
+        "button_background_slideshow_slide_duration": 5000,
+        "button_background_slideshow_slide_transition": "fade",
+        "button_background_slideshow_transition_duration": 500,
+        "button_background_slideshow_lazyload": "",
+        "button_background_slideshow_ken_burns": "",
+        "button_background_slideshow_ken_burns_zoom_direction": "in",
+        "button_hover_background_color": "",
+        "button_hover_background_color_b": "#f2295b",
+        "button_hover_background_video_link": "",
+        "button_hover_background_video_start": "",
+        "button_hover_background_video_end": "",
+        "button_hover_background_play_once": "",
+        "button_hover_background_play_on_mobile": "",
+        "button_hover_background_privacy_mode": "",
+        "button_hover_background_slideshow_gallery": [],
+        "button_hover_background_slideshow_loop": "yes",
+        "button_hover_background_slideshow_slide_duration": 5000,
+        "button_hover_background_slideshow_slide_transition": "fade",
+        "button_hover_background_slideshow_transition_duration": 500,
+        "button_hover_background_slideshow_lazyload": "",
+        "button_hover_background_slideshow_ken_burns": "",
+        "button_hover_background_slideshow_ken_burns_zoom_direction": "in",
+        "site_name": "Vibe Space",
+        "site_description": "",
+        "site_logo": {
+            "url": "",
+            "id": false,
+            "size": ""
+        },
+        "site_favicon": {
+            "url": "",
+            "id": "0",
+            "size": ""
+        },
+        "body_background_background": "",
+        "body_background_color": "",
+        "body_background_color_b": "#f2295b",
+        "body_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+        },
+        "body_background_video_link": "",
+        "body_background_video_start": "",
+        "body_background_video_end": "",
+        "body_background_play_once": "",
+        "body_background_play_on_mobile": "",
+        "body_background_privacy_mode": "",
+        "body_background_slideshow_gallery": [],
+        "body_background_slideshow_loop": "yes",
+        "body_background_slideshow_slide_duration": 5000,
+        "body_background_slideshow_slide_transition": "fade",
+        "body_background_slideshow_transition_duration": 500,
+        "body_background_slideshow_lazyload": "",
+        "body_background_slideshow_ken_burns": "",
+        "body_background_slideshow_ken_burns_zoom_direction": "in",
+        "mobile_browser_background": "",
+        "stretched_section_container": "",
+        "default_page_template": "default",
+        "active_breakpoints": [
+            "viewport_mobile",
+            "viewport_tablet"
+        ],
+        "viewport_mobile": "",
+        "viewport_mobile_extra": "",
+        "viewport_tablet": "",
+        "viewport_tablet_extra": "",
+        "viewport_laptop": "",
+        "viewport_widescreen": "",
+        "viewport_md": "",
+        "viewport_lg": "",
+        "global_image_lightbox": "yes",
+        "lightbox_enable_counter": "yes",
+        "lightbox_enable_fullscreen": "yes",
+        "lightbox_enable_zoom": "yes",
+        "lightbox_enable_share": "yes",
+        "lightbox_title_src": "title",
+        "lightbox_description_src": "description",
+        "settings_page_transitions_background_color": "#FFBC7D",
+        "settings_page_transitions_background_color_b": "#f2295b",
+        "settings_page_transitions_background_video_link": "",
+        "settings_page_transitions_background_video_start": "",
+        "settings_page_transitions_background_video_end": "",
+        "settings_page_transitions_background_play_once": "",
+        "settings_page_transitions_background_play_on_mobile": "",
+        "settings_page_transitions_background_privacy_mode": "",
+        "settings_page_transitions_background_slideshow_gallery": [],
+        "settings_page_transitions_background_slideshow_loop": "yes",
+        "settings_page_transitions_background_slideshow_slide_duration": 5000,
+        "settings_page_transitions_background_slideshow_slide_transition": "fade",
+        "settings_page_transitions_background_slideshow_transition_duration": 500,
+        "settings_page_transitions_background_slideshow_lazyload": "",
+        "settings_page_transitions_background_slideshow_ken_burns": "",
+        "settings_page_transitions_background_slideshow_ken_burns_zoom_direction": "in",
+        "settings_page_transitions_preloader_type": "",
+        "settings_page_transitions_preloader_icon": {
+            "value": "fas fa-spinner",
+            "library": "fa-solid"
+        },
+        "settings_page_transitions_preloader_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+        },
+        "settings_page_transitions_preloader_animation_type": "circle",
+        "ma_el_animation_name": "",
+        "ma_el_animation_duration": "",
+        "scroll_snap": ""
+    }
+}

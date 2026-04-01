@@ -1,0 +1,65 @@
+[
+    {
+        "kit_id": "14",
+        "kit_name": "Serve Desk",
+        "categories": [
+            "startup"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage"
+        ],
+        "is_pro": 0,
+        "downloadable": 0,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Serve-Desk-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/servedesk",
+        "descriptions": "",
+        "template_count": 1
+    },
+    {
+        "kit_id": "16",
+        "kit_name": "Flow Desk",
+        "categories": [
+            "startup"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage"
+        ],
+        "is_pro": 1,
+        "downloadable": 0,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Flow-Desk-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/flowdesk",
+        "descriptions": "",
+        "template_count": 1
+    },
+    {
+        "kit_id": "33",
+        "kit_name": "Drift",
+        "categories": [
+            "startup"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage"
+        ],
+        "is_pro": 1,
+        "downloadable": 0,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Drift-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/drift",
+        "descriptions": "",
+        "template_count": 22
+    }
+]

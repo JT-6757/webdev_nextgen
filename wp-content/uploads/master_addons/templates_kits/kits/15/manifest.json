@@ -1,0 +1,324 @@
+{
+    "manifest_version": "1.0.0",
+    "title": "Travello - Your Travel Guide",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "categories": "business",
+    "keywords": "",
+    "is_pro": 1,
+    "downloadable": 0,
+    "downloads": "",
+    "purchasable": 0,
+    "purchase_url": "",
+    "description": "",
+    "thumbnail": null,
+    "thumbnail_url": "http://nextgentechnologylimited.local/wp-content/uploads/master_addons/templates_kits/thumbnails/kit-thumb.webp",
+    "preview_url": "https://el.master-addons.com/travello",
+    "created_date": "2025-10-28 07:09:20",
+    "last_updated": "2026-01-19 11:05:00",
+    "template_count": 10,
+    "export_date": "2026-01-29 08:56:33",
+    "export_version": "1.0.0",
+    "templates": [
+        {
+            "template_id": "3",
+            "varsion": "1.0.0",
+            "name": "Travello - Your Travel Guide - Global Style",
+            "type": "section",
+            "screenshot": "screenshots/global-kit-styles.jpg",
+            "source": "templates/global.json",
+            "preview_url": "https://el.master-addons.com/travello",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ],
+                "wp_page_template": "default"
+            }
+        },
+        {
+            "template_id": 486,
+            "name": "Home",
+            "screenshot": null,
+            "source": "templates/Home.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/home/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 632,
+            "name": "Header",
+            "screenshot": null,
+            "source": "templates/Header.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/header/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 720,
+            "name": "Footer",
+            "screenshot": null,
+            "source": "templates/Footer.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/footer/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 510,
+            "name": "About Us",
+            "screenshot": null,
+            "source": "templates/About-Us.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/about-us/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 564,
+            "name": "Gallery",
+            "screenshot": null,
+            "source": "templates/Gallery.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/gallery/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 580,
+            "name": "Contact",
+            "screenshot": null,
+            "source": "templates/Contact.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/contact/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 532,
+            "name": "Packages",
+            "screenshot": null,
+            "source": "templates/Packages.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/package/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 546,
+            "name": "Package Details",
+            "screenshot": null,
+            "source": "templates/Package-Details.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/package-details/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 559,
+            "name": "FAQ",
+            "screenshot": null,
+            "source": "templates/FAQ.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/faq/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "template_id": 585,
+            "name": "404",
+            "screenshot": null,
+            "source": "templates/404.json",
+            "preview_url": "https://el.master-addons.com/travello/template-kit/404/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "6.1.4",
+            "file": "contact-form-7/wp-contact-form-7.php",
+            "author": "Rock Lobster Inc."
+        },
+        {
+            "name": "Elementor",
+            "version": "3.34.3",
+            "file": "elementor/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "hero-background.jpeg",
+            "thumbnail_url": "https://el.master-addons.com/travello/wp-content/uploads/sites/15/2026/01/hero-background.jpeg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1600,
+                1066
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Passionate-about-travel.jpeg",
+            "thumbnail_url": "https://el.master-addons.com/travello/wp-content/uploads/sites/15/2026/01/Passionate-about-travel.jpeg",
+            "templates": [
+                {
+                    "source": "templates/Home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates/About-Us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1164,
+                816
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https://el.master-addons.com/travello/wp-content/uploads/sites/15/2025/11/Logo.png",
+            "templates": [
+                {
+                    "source": "templates/Header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                152,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Classy-woman-on-the-Thai-beach-of-Poda.jpg",
+            "thumbnail_url": "https://el.master-addons.com/travello/wp-content/uploads/sites/15/2026/01/Classy-woman-on-the-Thai-beach-of-Poda.jpg",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates/Package-Details.json",
+                    "name": "Package Details"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                1248,
+                832
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "https://el.master-addons.com/travello/wp-content/uploads/sites/15/2025/11/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates/Footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                158,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-7.png",
+            "thumbnail_url": "https://el.master-addons.com/travello/wp-content/uploads/sites/15/2025/11/Group-7.png",
+            "templates": [
+                {
+                    "source": "templates/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 0,
+            "dimensions": [
+                733,
+                274
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
