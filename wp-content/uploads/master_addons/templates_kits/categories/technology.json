@@ -7,10 +7,10 @@
         ],
         "keywords": [
             "design",
-            "multipage"
+            "functionality"
         ],
         "is_pro": 1,
-        "downloadable": 0,
+        "downloadable": 1,
         "purchasable": 0,
         "purchase_url": "",
         "downloads": "",
@@ -18,6 +18,27 @@
         "preview_url": "https:\/\/el.master-addons.com\/tokenaid",
         "descriptions": "",
         "template_count": 13
+    },
+    {
+        "kit_id": "14",
+        "kit_name": "Serve Desk",
+        "categories": [
+            "technology"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage"
+        ],
+        "is_pro": 0,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Serve-Desk-thumb.webp",
+        "preview_url": "https:\/\/el.master-addons.com\/servedesk",
+        "descriptions": "",
+        "template_count": 17
     },
     {
         "kit_id": "24",
@@ -84,5 +105,27 @@
         "preview_url": "https:\/\/el.master-addons.com\/lead-lift",
         "descriptions": "",
         "template_count": 7
+    },
+    {
+        "kit_id": "36",
+        "kit_name": "Zaplyte",
+        "categories": [
+            "technology"
+        ],
+        "keywords": [
+            "design",
+            "functionality",
+            "multipage",
+            "single-page"
+        ],
+        "is_pro": 1,
+        "downloadable": 1,
+        "purchasable": 0,
+        "purchase_url": "",
+        "downloads": "",
+        "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Zaplyte-thumb.png",
+        "preview_url": "https:\/\/el.master-addons.com\/zaplyte",
+        "descriptions": "",
+        "template_count": 14
     }
 ]

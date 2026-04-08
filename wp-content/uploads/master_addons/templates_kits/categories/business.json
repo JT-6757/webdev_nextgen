@@ -30,15 +30,15 @@
             "functionality",
             "multipage"
         ],
-        "is_pro": 0,
-        "downloadable": 0,
+        "is_pro": 1,
+        "downloadable": 1,
         "purchasable": 0,
         "purchase_url": "",
         "downloads": "",
-        "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Shift-Flow-thumb.webp",
+        "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Shift-Flow-thumb.png",
         "preview_url": "https:\/\/el.master-addons.com\/shiftflow",
         "descriptions": "",
-        "template_count": 2
+        "template_count": 7
     },
     {
         "kit_id": "27",
