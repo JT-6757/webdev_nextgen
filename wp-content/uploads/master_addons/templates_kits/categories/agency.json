@@ -10,8 +10,8 @@
             "functionality",
             "multipage"
         ],
-        "is_pro": 0,
-        "downloadable": 0,
+        "is_pro": 1,
+        "downloadable": 1,
         "purchasable": 0,
         "purchase_url": "",
         "downloads": "",
@@ -32,14 +32,14 @@
             "multipage"
         ],
         "is_pro": 1,
-        "downloadable": 0,
+        "downloadable": 1,
         "purchasable": 0,
         "purchase_url": "",
         "downloads": "",
         "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Wiro-thumb.webp",
         "preview_url": "https:\/\/el.master-addons.com\/wiro",
         "descriptions": "",
-        "template_count": 1
+        "template_count": 13
     },
     {
         "kit_id": "30",

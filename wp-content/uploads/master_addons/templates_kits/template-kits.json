@@ -31,15 +31,15 @@
                 "functionality",
                 "multipage"
             ],
-            "is_pro": 0,
-            "downloadable": 0,
+            "is_pro": 1,
+            "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
             "downloads": "",
-            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Shift-Flow-thumb.webp",
+            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Shift-Flow-thumb.png",
             "preview_url": "https:\/\/el.master-addons.com\/shiftflow",
             "descriptions": "",
-            "template_count": 2
+            "template_count": 7
         },
         {
             "kit_id": "27",
@@ -73,10 +73,10 @@
             ],
             "keywords": [
                 "design",
-                "multipage"
+                "functionality"
             ],
             "is_pro": 1,
-            "downloadable": 0,
+            "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
             "downloads": "",
@@ -84,6 +84,27 @@
             "preview_url": "https:\/\/el.master-addons.com\/tokenaid",
             "descriptions": "",
             "template_count": 13
+        },
+        {
+            "kit_id": "14",
+            "kit_name": "Serve Desk",
+            "categories": [
+                "technology"
+            ],
+            "keywords": [
+                "design",
+                "functionality",
+                "multipage"
+            ],
+            "is_pro": 0,
+            "downloadable": 1,
+            "purchasable": 0,
+            "purchase_url": "",
+            "downloads": "",
+            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Serve-Desk-thumb.webp",
+            "preview_url": "https:\/\/el.master-addons.com\/servedesk",
+            "descriptions": "",
+            "template_count": 17
         },
         {
             "kit_id": "24",
@@ -150,71 +171,28 @@
             "preview_url": "https:\/\/el.master-addons.com\/lead-lift",
             "descriptions": "",
             "template_count": 7
-        }
-    ],
-    "startup": [
-        {
-            "kit_id": "14",
-            "kit_name": "Serve Desk",
-            "categories": [
-                "startup"
-            ],
-            "keywords": [
-                "design",
-                "functionality",
-                "multipage"
-            ],
-            "is_pro": 0,
-            "downloadable": 0,
-            "purchasable": 0,
-            "purchase_url": "",
-            "downloads": "",
-            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Serve-Desk-thumb.webp",
-            "preview_url": "https:\/\/el.master-addons.com\/servedesk",
-            "descriptions": "",
-            "template_count": 1
         },
         {
-            "kit_id": "16",
-            "kit_name": "Flow Desk",
+            "kit_id": "36",
+            "kit_name": "Zaplyte",
             "categories": [
-                "startup"
+                "technology"
             ],
             "keywords": [
                 "design",
                 "functionality",
-                "multipage"
+                "multipage",
+                "single-page"
             ],
             "is_pro": 1,
-            "downloadable": 0,
+            "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
             "downloads": "",
-            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Flow-Desk-thumb.webp",
-            "preview_url": "https:\/\/el.master-addons.com\/flowdesk",
+            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Zaplyte-thumb.png",
+            "preview_url": "https:\/\/el.master-addons.com\/zaplyte",
             "descriptions": "",
-            "template_count": 1
-        },
-        {
-            "kit_id": "33",
-            "kit_name": "Drift",
-            "categories": [
-                "startup"
-            ],
-            "keywords": [
-                "design",
-                "functionality",
-                "multipage"
-            ],
-            "is_pro": 1,
-            "downloadable": 0,
-            "purchasable": 0,
-            "purchase_url": "",
-            "downloads": "",
-            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Drift-thumb.webp",
-            "preview_url": "https:\/\/el.master-addons.com\/drift",
-            "descriptions": "",
-            "template_count": 22
+            "template_count": 14
         }
     ],
     "agency": [
@@ -229,8 +207,8 @@
                 "functionality",
                 "multipage"
             ],
-            "is_pro": 0,
-            "downloadable": 0,
+            "is_pro": 1,
+            "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
             "downloads": "",
@@ -251,14 +229,14 @@
                 "multipage"
             ],
             "is_pro": 1,
-            "downloadable": 0,
+            "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
             "downloads": "",
             "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Wiro-thumb.webp",
             "preview_url": "https:\/\/el.master-addons.com\/wiro",
             "descriptions": "",
-            "template_count": 1
+            "template_count": 13
         },
         {
             "kit_id": "30",
@@ -327,6 +305,50 @@
             "template_count": 12
         }
     ],
+    "startup": [
+        {
+            "kit_id": "16",
+            "kit_name": "Flow Desk",
+            "categories": [
+                "startup"
+            ],
+            "keywords": [
+                "design",
+                "functionality",
+                "multipage"
+            ],
+            "is_pro": 1,
+            "downloadable": 1,
+            "purchasable": 0,
+            "purchase_url": "",
+            "downloads": "",
+            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Flow-Desk-thumb.webp",
+            "preview_url": "https:\/\/el.master-addons.com\/flowdesk",
+            "descriptions": "",
+            "template_count": 18
+        },
+        {
+            "kit_id": "33",
+            "kit_name": "Drift",
+            "categories": [
+                "startup"
+            ],
+            "keywords": [
+                "design",
+                "functionality",
+                "multipage"
+            ],
+            "is_pro": 1,
+            "downloadable": 1,
+            "purchasable": 0,
+            "purchase_url": "",
+            "downloads": "",
+            "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Drift-thumb.png",
+            "preview_url": "https:\/\/el.master-addons.com\/drift",
+            "descriptions": "",
+            "template_count": 22
+        }
+    ],
     "real-estate": [
         {
             "kit_id": "17",
@@ -338,15 +360,15 @@
                 "design",
                 "multipage"
             ],
-            "is_pro": 0,
-            "downloadable": 0,
+            "is_pro": 1,
+            "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
             "downloads": "",
             "thumbnail": "http:\/\/nextgentechnologylimited.local\/wp-content\/uploads\/master_addons\/templates_kits\/thumbnails\/kit-Vibe-Space-thumb.webp",
             "preview_url": "https:\/\/el.master-addons.com\/vibespace",
             "descriptions": "",
-            "template_count": 1
+            "template_count": 15
         },
         {
             "kit_id": "18",
@@ -360,7 +382,7 @@
                 "multipage"
             ],
             "is_pro": 1,
-            "downloadable": 0,
+            "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
             "downloads": "",
@@ -407,7 +429,7 @@
                 "multipage",
                 "single-page"
             ],
-            "is_pro": 0,
+            "is_pro": 1,
             "downloadable": 1,
             "purchasable": 0,
             "purchase_url": "",
